@@ -1,0 +1,24 @@
+name: 我来留名
+description: 薄肌开发者，报上名来。管理员会把你的信息加到首页名单。
+title: "[留名] "
+body:
+  - type: input
+    id: nickname
+    attributes:
+      label: 怎么称呼你？
+      description: 填你希望展示在公开名单里的名字或昵称。
+      placeholder: 你的昵称
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: 你的 GitHub
+      placeholder: https://github.com/你的用户名
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: 正在做什么？（选填）
+      description: 一句话就行，可以附上项目链接。没有也可以留空。
