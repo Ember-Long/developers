@@ -11,6 +11,11 @@ body:
     validations:
       required: true
   - type: input
+    id: school
+    attributes:
+      label: 学校（选填）
+      placeholder: 你的学校
+  - type: input
     id: github
     attributes:
       label: 你的 GitHub
