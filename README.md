@@ -19,6 +19,7 @@
 | --- | --- | --- | --- |
 | 牛肉饼 | | [@yuebinbc](https://github.com/yuebinbc) | |
 | jony | UCAS（中国科学院大学） | [@zjncs](https://github.com/zjncs) | |
+| Ember | USC | [@Ember-Long](https://github.com/Ember-Long) | |
 <!-- 在这条注释上方添加自己的一行，按加入顺序排列。 -->
 
 ## 怎么留名？
